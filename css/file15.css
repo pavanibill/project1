@@ -1,0 +1,276 @@
+.container{
+	width: 1140px;
+
+}
+.box{
+	font-size: 18px;
+	color:#1C1C1C;
+	font-weight: bold;
+	margin-left: 20px;
+}
+.line{
+	width: 40px;
+border-bottom: 3px solid darkorange;
+margin-left:20px;
+}
+.check{
+  display: block;
+  position: relative;
+  padding-left: 35px;
+ margin-left: 20px;
+ margin-top: 20px;
+  cursor: pointer;
+
+}
+.check input {
+  position: absolute;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color:#FFFFFF;
+  border: 1px solid #F4F4F4;
+ 
+}
+.check:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+.check input:checked ~ .checkmark {
+  background-color: #4B006D;
+}
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.check input:checked ~ .checkmark:after {
+  display: block;
+}
+.check .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.declaration{
+	font-size: 15px;color: #1C1C1C;
+}
+.box3{
+	display:  flex;
+	margin-top: 30px;
+}
+.form-group{
+	width: 320px;
+}
+.form-group{
+	width: 320px;	
+}
+.one{
+	margin-top: 0;
+}
+input.form-control{
+	border: hidden;
+	border-bottom:2px solid #E8E8E8;
+	border-radius:0;
+	padding-left: 0;
+}
+input.form-control::placeholder{ font-size:14px; color:#8D8D8D;}
+.box13{
+	width: 1140px;
+	margin-top:20px;
+background: var(--unnamed-color-f4f4f4) 0% 0% no-repeat padding-box;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+padding: 10px 10px 10px 10px;
+}
+.boxcontact{
+	margin: 50px 0 0 20px;
+	color: #1C1C1C;
+	font-size: 18px;
+	font-weight: bold;
+}
+.name{
+	font-weight: bold;
+}
+
+.text1{
+	color: #8D8D8D;
+	font-size: 11px;
+}
+.text2{
+	color: #231A3D;
+	font-size: 20px;
+	
+}
+.bigline{
+border-bottom: 3px solid grey;
+padding: 15px 0 0px 0;
+}
+.box12{
+	width: 100%;
+	margin-top: 15px;
+}
+.box12in1{
+   color: #8D8D8D;
+   font-size: 14px;
+}
+.city{
+	color: #1C1C1C;
+	font-weight: bold;
+	padding-left:40px;
+}
+.box10{
+	width: 1100px;
+background: var(--unnamed-color-fdfdfd) 0% 0% no-repeat padding-box;
+background: #FDFDFD 0% 0% no-repeat padding-box;
+margin: 10px 0 10px 0;
+padding: 20px 0 20px 20px;
+
+}
+.add{
+  color: #8D8D8D;
+  font-size: 14px;
+}
+.address{
+  color: #1C1C1C;
+  font-weight: bold;
+}
+.details{
+	color: #1C1C1C;
+	font-size: 18px;
+	font-weight: bold;
+}
+.box9{
+	display: flex;
+}
+.box99{
+	display: flex;
+	width: 33.33%;
+
+}
+.leftbox{
+	width: 100%;
+	font-size: 14px;
+	color: #8D8D8D;
+	line-height: 2;
+}
+.rightbox{
+	width: 100%;
+	color:#1C1C1C;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 2;
+}
+.box5{
+	width: 1140px;
+background: var(--unnamed-color-f9f0de) 0% 0% no-repeat padding-box;
+background: #F9F0DE 0% 0% no-repeat padding-box;
+margin-top: 20px;
+border-radius: 5px;
+padding-top: 20px;
+}
+.box6{
+	display: flex;
+	flex-wrap: wrap;
+}
+.form-group4{
+	width: 320px;
+height: 54px;
+}
+
+.text3{
+	color: #4B006D;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.option{
+	color: #606060;
+}
+.box7{
+	display: flex;
+	padding: 30px 0 30px 0;
+}
+.more button{
+   width: 153px;
+height: 40px;
+border: 1px solid #4B006D;
+border-radius: 5px;
+color:  #4B006D;
+}
+.set button{
+  width: 72px;
+height: 40px;
+border-radius: 5px;
+margin-left: 10px;
+background: #E1D6C1 0% 0% no-repeat padding-box;
+color:  #4B006D;
+
+}
+.box8{
+	width: 377px;
+height: 50px;
+display: flex;
+margin-top: 50px;
+
+}
+.save{
+	
+	width: 213px;
+height: 50px;
+/* UI Properties */
+background: var(--unnamed-color-4b006d) 0% 0% no-repeat padding-box;
+background: #4B006D 0% 0% no-repeat padding-box;
+box-shadow: 0px 2px 6px #4B006D33;
+border-radius: 5px;
+}
+.save button{
+	font-size: 14px;
+	color:#FFFFFF;
+}
+.all{
+	
+	width: 154px;
+height: 50px;
+margin-left: 10px;
+background: var(--unnamed-color-f4f4f4) 0% 0% no-repeat padding-box;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 5px;
+}
+
+.all  button{
+	font-size: 14px;
+	color: #8D8D8D;
+}
+.biglines{
+
+	width: 100%;
+border-bottom:1px solid lightgrey;
+margin: 50px 0 50px 0;
+}
+.tax{
+	background-color: #F9F0DE;
+}
+label{
+	margin-bottom: 0px;
+	padding-top: 0;
+	color: #8D8D8D;
+	font-size: 12px;
+}
+.select{
+	margin-top: 20px;
+}
+.type{
+	margin-top: 20px;
+}

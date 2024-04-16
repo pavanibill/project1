@@ -1,0 +1,43 @@
+body{
+  font-family:sans-serif aerial;
+}.container{
+	width: 1140px;
+}
+.headerleft{
+    background-color:black;
+    align-items: center;
+    padding: 10px 0 10px;
+     width: 100%;
+}
+.navLinks a {
+	font-size: 20px;
+    color: white;
+    padding: 0 10px;
+}
+.box img{
+	width: 100%;
+	height:auto;
+}
+.headerRight{
+	display: inline-block;
+	padding-left:400px;
+}
+.icons img{
+	width:25px;
+}
+.boxes{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	
+}
+.box1{
+	width:100%;
+	border: 1px solid grey;
+}
+.txt{
+	font-size:20px;
+	color: darkblue;
+	font-weight: bold;
+	text-align: center;
+}

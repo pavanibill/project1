@@ -1,0 +1,32 @@
+.thirdbox{
+    display: flex;
+	 margin: auto;
+}
+.boxes3{
+	width: 243px;
+	height: 290px;
+	margin-top: 30px;
+   background: url('../images/m01.png') 0% 0% no-repeat;
+   display: flex;
+}
+.text{
+	width: 85px;
+   margin: 25px 0 0 25px;
+	color: #FFFFFF;
+   font-size: 22px;
+}
+.insidetext{
+	font-size: 16px;
+	margin: auto;
+	text-align: center;
+}
+.boxnew{
+	width: 243px;
+	height: 290px;
+	background: url('../images/no2.png') 0% 0% no-repeat;
+}
+.boxnew1{
+	width: 243px;
+	height: 290px;
+	background: url('../images/no3.png') 0% 0% no-repeat;
+}

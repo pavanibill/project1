@@ -1,0 +1,13 @@
+.container{
+	width:1140px;
+}
+.mainbox{
+	width: 1140px;
+height: 81px;
+background: #EAE3EE 0% 0% no-repeat padding-box;
+border-radius:10px;
+}
+.box{
+	width:100%
+	display:flex;
+}

@@ -1,0 +1,19 @@
+.mainbox{
+	width: 1366px;
+height: 634px;
+background: var(--unnamed-color-fdfdfd) 0% 0% no-repeat padding-box;
+background: #FDFDFD 0% 0% no-repeat padding-box;
+box-shadow: -10px 3px 40px #00000033;
+opacity: 1;
+}
+.man{
+	width: 32px;
+height: 32px;
+background: transparent url('../images/man.svg');
+}
+.add{
+	width: 187px;
+color: #231A3D;
+font-size: 20px;
+font-weight: bold;
+}

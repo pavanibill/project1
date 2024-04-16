@@ -1,0 +1,65 @@
+body{ background:#f7faf8; line-height:1 }
+.container{width: 1366px; margin: auto;}
+.rightbox{
+  width: 400px;
+  box-shadow: 0 3px 76px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+}
+.right{
+  padding: 16px 0px 14px 20px;
+}
+.text{
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  color: #070707;
+}
+.rightboxln{
+  height: 1px;
+  margin: 0 0 15px;
+  background-color: #f3f3f3;
+}
+.boxes{
+   margin: 0 15px 17px;
+ }
+.rightone{
+   margin: 15px 0 2px 0px;
+  font-family: Roboto;
+  font-size: 12px;
+  line-height: 1.43;
+  font-weight: normal;
+  text-align: left;
+  color: #6d6d6d;
+}
+.box{
+  display: flex;
+}
+.box img{
+  width: 100px;
+   border-radius: 10px;
+}
+.left{
+  margin-top: 20px;
+}
+.rightwo{
+   margin: 2px 0px 5px 0px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  color: #070707;
+  line-height: 1.38;
+
+}
+.righthree{
+  margin: 5px 0px 0 0px;
+  font-family: Roboto;
+  font-size: 14px;
+  text-align: left;
+  line-height: 1.43;
+  color: #6d6d6d;
+}
+.lastbox{
+  background-color: #f8f8f8;;
+}

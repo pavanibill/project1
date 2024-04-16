@@ -1,0 +1,50 @@
+.header{
+    width: 100%;
+}
+.container{
+  width: 1140px;
+    background-color: #930409;
+}
+.logo img {
+    width: 100%;
+}
+.headerRight {
+    display: flex;
+    color:#FFFFFF;
+    padding-left:300px;
+    align-items: center;
+}
+.navLinks a {
+	font-size: 14px;
+    color: #FFFFFF;
+    padding: 0 10px;
+}
+.navLinks a.yellow {
+    color: #F7C80B;
+}
+.line{
+width: 1px;
+margin-left: 10px;
+background-color: #B44246;
+}
+.box{
+display: flex;
+}
+.rightbox{
+	margin: 10px 10px 0 10px;
+}
+.dropdownmenu .dropdown .btn {
+    background: none !Important;
+    box-shadow: none !important;
+    border: 0;
+    font-size: 11px;
+    padding: 0;
+    text-align: left;
+    margin-top: 10px;
+}
+.id{
+color:#FFFFFF;
+text-align: left;
+color: #FFFFFF;
+ font-size: 11px;
+}

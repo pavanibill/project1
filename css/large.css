@@ -1,0 +1,65 @@
+.thirdbox{
+	 margin: auto;
+	 width: 1366px;
+}
+.boxes3{
+	width: 243px;
+	height: 290px;
+   background: url('../images/m01.png') 0% 0% no-repeat;
+}
+.text{
+	height:82px;
+	color: #FFFFFF;
+   font-size: 22px;
+   padding-left: 30px;
+   display: flex;
+   align-items: center;
+}
+.insidetext{
+	height:190px;
+	padding-left: 20px;
+	align-items: center;
+  text-align: center;
+	font-size: 16px;
+	display: flex;
+}
+.boxnew{
+	width: 243px;
+	height: 290px;
+	background: url('../images/no2.png') 0% 0% no-repeat;
+
+}
+.boxnew1{
+	width: 243px;
+	height: 290px;
+	background: url('../images/no3.png') 0% 0% no-repeat;
+}
+.fourthbox{
+	 margin: auto;
+	 margin-top: 50px;
+	 width: 1366px;
+}
+.box3{
+	width: 280px;
+   background: url('../images/bl.png') 0% 0% no-repeat;
+  
+}
+.text6{
+	height: 154px;
+	text-align: center;
+	align-items: center;
+	color: #4B4B4B;
+   font-size:16px;
+   display: flex;
+   padding: 0 40px 0 40px;
+   font-weight: bold;
+   line-height: 1;
+}
+.box33{
+	width: 280px;
+	background: url('../images/gre.png') 0% 0% no-repeat;
+}
+.box333{
+	width: 280px;
+	background: url('../images/b.png') 0% 0% no-repeat;
+}

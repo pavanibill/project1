@@ -1,0 +1,248 @@
+body{
+    background-color: #F9F4F2;
+}
+header{
+    background: #000 url('../images/background.png');
+    background-size: cover;
+    height: 200px;
+    width: 100%; 
+}
+.container{
+  width: 1140px;
+    background-color: #930409;
+    background-size: cover;
+}
+.logo img {
+    width: 100%;
+}
+.headerRight {
+    display: flex;
+    color:#FFFFFF;
+    padding-left:300px;
+    align-items: center;
+}
+.navLinks a {
+	font-size: 14px;
+    color: #FFFFFF;
+    padding: 0 10px;
+}
+.navLinks a.yellow {
+    color: #F7C80B;
+}
+.line{
+width: 1px;
+margin-left: 10px;
+background-color: #B44246;
+}
+.box{
+display: flex;
+}
+.rightbox{
+	margin: 10px 10px 0 10px;
+}
+.dropdownmenu .dropdown .btn {
+    background: none !Important;
+    box-shadow: none !important;
+    border: 0;
+    font-size: 11px;
+    padding: 0;
+    text-align: left;
+    margin-top: 10px;
+}
+.id{
+color:#FFFFFF;
+text-align: left;
+color: #FFFFFF;
+ font-size: 11px;
+}
+.bigbox{
+    width: 574px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF;
+box-shadow: 0px 4px 10px #E2C5B9;
+margin: auto;
+border-radius: 10px;
+}
+.boxes2{
+    display: flex;
+    margin-top: 30px;
+}
+.box1{
+    width: 283px;
+height: 76px;
+background-color: #FFF6F2;
+border-radius: 10px;
+}
+.box2{
+    width: 285px;
+height: 76px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background-color: #FFFFFF;
+}
+.inbox{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top:10px;
+}
+.number{
+    color: #D65918;
+    font-size:20px;
+    font-weight: bold;
+}
+.number2{
+    color: #191919;
+    font-size: 20px;
+    font-weight: bold;
+}
+.decliner{
+    color: #D65918;
+    font-size: 15px;
+    font-weight: bold;
+}
+.gainer{
+    font-size: 15px;
+    color: #7A7A7A;
+    font-weight: bold;
+}
+.line2{
+height: 4px;
+background: var(--unnamed-color-d65918) 0% 0%;
+background: #D65918;
+margin-top:10px;
+}
+.allbox{
+    display: flex;
+    justify-content: center;
+    margin:10px 0 10px 0;
+}
+.code{
+color: #869298;
+font-size: 13px;
+margin:0px 30px 0px 30px;
+
+}
+.container2{
+    color: #FFFFFF;
+    font-size: 26px;
+    padding: 30px 0 0 70px;
+}
+.up h1 {
+    color:#FFFFFF;
+    font-size: 26px;
+    padding-top: 20px;
+}
+.upbox{
+    margin-top:60px;
+}
+.container3{
+    width: 1140px;
+height: 94px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #EBE3E0;
+margin: auto;
+border-radius: 10px;
+margin-bottom: 15px;
+margin-top: 10px;
+}
+.upboxin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.inbx{
+    display: flex;
+    align-items: center;
+}
+.txtin{
+    font-size: 14px;
+    color: #7A7A7A;
+}
+.content{
+     width: 1140px;
+   height: 142px;
+background: #FFFFFF;
+border-radius: 10px;
+margin: auto;
+margin-bottom: 5px;
+box-shadow: 0px 1px 8px #E2C5B980;
+}
+.box{
+    display: flex;
+    align-items: flex-start;
+}
+.cell1{
+    width: 25%;
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.inbox1{
+    display: flex;
+    align-items: center;
+}
+.inbox1 img{
+    margin: 0 5px 0 15px;
+}
+.txt1{
+    color: #191919;
+    font-size: 16px;
+    font-weight: bold;
+}
+.txt2{
+    font-size: 14px;
+    color: #7A7A7A;
+}
+.no{
+    font-size: 14px;
+    color: #7A7A7A;
+}
+.inbox2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cell2{
+   width: 45%;
+   display: flex;
+    align-items: center;
+    padding-top: 25px;
+}
+.inbx{
+    width: 33.33%;
+    padding-bottom: 15px;
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+}
+.text{
+    font-size: 15px;
+    font-weight: bold;
+    color: #191919;
+}
+.downbox{
+    padding-top:5px;
+}
+.downbox1{
+  color: #7A7A7A;
+  font-size: 15px;
+}
+.text4{
+   color: #191919;
+  font-size: 14px;
+  font-weight: bold;
+}
+.cell3{
+    width: 30%;
+    display: flex;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.graphbox img{
+  width: 100%;
+  height: auto;
+  padding-right: 15px;
+}
+

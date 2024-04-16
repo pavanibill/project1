@@ -1,0 +1,392 @@
+.container{
+	width: 1140px;
+}
+header{
+    background-color: navy;
+    width: 100%; 
+}
+.navbar {
+    width: 100%;
+    background-color:navy;
+    margin: auto;
+}
+.navbar a {
+    display: block;
+    text-align:left;
+     padding: 14px 16px;
+    text-decoration: none;
+    font-size:15px;
+    color:white;
+}
+.headerright{
+    display: flex;
+}
+.headerleft{
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+}
+.magnify{
+    width: 15%;
+    padding-top:18px;
+}
+.magnify img{
+    width:100%;
+}
+.mainbox{
+    width:100%;
+}
+.banner img{
+    width: 100%;
+}
+.container{
+    width: 1140px;
+    display: flex;
+}
+.box1{
+    width: 100%;
+}
+.box1:hover img{transform:scale(1.2); transition: all .3s}
+.box1:hover{overflow: hidden;}
+.company{
+    color:yellow;
+    font-size:40px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.txt1{
+    font-size:30px;
+    font-weight: bold;
+    padding-bottom:20px;
+    line-height: 1;
+}
+.txt22{
+    font-size: 14px;
+    padding-top:10px;
+}
+.women img{
+    width: 100%;
+    height:auto;
+}
+.eight button{
+    color: white;
+    margin-top: 40px;
+}
+.box2{
+  width: 100%;
+  background-color: lightgrey;
+}
+.choose{
+   align-items: center;
+   text-align: center;
+   font-size: 25px;
+   font-weight: bold;
+   padding-top:40px;
+}
+.loreum{
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.box3{
+    width: 100%;
+    padding: 30px 0 30px 0;
+}
+.circle{
+    width:150px;
+    height: 150px;
+    border:5px solid yellow;
+     border-radius:100px;
+     margin: auto;
+}
+.incircle1{
+     width:140px;
+    height:140px;
+    border: 5px solid green;
+     border-radius:90px;
+}
+.incircle2{
+     width:130px;
+    height:130px;
+    border: 5px solid yellow;
+     border-radius:70px;
+}
+.incircle3{
+     width:120px;
+    height:120px;
+    border: 5px solid green;
+   border-radius:60px;   
+}
+.icons{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    padding-top:20px;
+}
+.icons img{
+    width:60%;
+}
+.heading{
+    font-size: 16px;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    padding-top: 5px;
+}
+.text{
+    font-size: 14px;
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+}
+.service{
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+.box4{
+    width: 100%;
+    display: flex;
+}
+.constructimages{
+    width: 100%;
+}
+.constructimages img{
+    width: 100%;
+}
+.constructimages:hover img{transform:scale(1.2); transition: all .3s }
+.constructimages{overflow: hidden;}
+.constructname{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top:20px;
+}
+.constructtext{
+    font-size: 14px;
+    padding:10px 0 10px 0;
+}
+.one button{
+    color: white;
+    margin-top:20px;
+}
+.box5{
+    background: #000 url('../images/bgyellow.jpg');
+    background-size: cover;
+    width:100%;
+    margin-top:50px;
+}
+.madetxt{
+  font-size: 14px;
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+.made{
+   font-size:25px;
+   padding: 40px 0 20px 0;
+   font-weight: bold;
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+.box6{
+    width: 100%;
+    margin: 40px 0 40px 0;
+}
+.box66{
+    display: flex;
+}
+.images{
+    width: 100%;
+    display: flex;
+}
+.images img{
+    width: 100%;
+}
+.images:hover img{transform:scale(1.2); transition: all .3s }
+.images{overflow: hidden;}
+.fourimages{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fourimages img{
+    width: 100%;
+}
+.fourimages:hover img{transform:scale(1.2); transition: all .3s }
+.fourimages{overflow: hidden;}
+.navbar2 {
+    width: 100%;
+    margin: auto;
+}
+.header{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+.navbar2 a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:15px;
+    color: white;
+}
+.box7{
+    width: 100%;
+    margin-top:50px;
+}
+.customer{
+    font-size: 24px;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+}
+.txt2{
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.box8{
+    width: 100%;
+    margin-top: 40px;
+
+}
+.boxes{
+    display: flex;
+    width:100%;
+    height:60%;
+    background-color: lightgrey;
+    padding:40px 20px 40px 40px;
+    border-radius: 15px;
+}
+.girlimage:hover img{transform:scale(1.2); transition: all .3s}
+.girlimage:hover{overflow: hidden;}
+.girlimage{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.girlimage img{
+    width:30%;
+}
+.name{
+    font-size: 18px;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+}
+.footer{
+    width:100%;
+    background-color: black;
+
+}
+.containerbox{
+    width: 1140px;
+    margin: auto;
+
+}
+.endboxlist{
+    width: 100%;
+    color: white;
+    margin-top:60px;
+
+}
+.endboxlists{
+    font-size:22px;
+    margin-bottom: 30px;
+}
+ul{
+    list-style-type: none;padding: 0;margin: 0;font-size: 16px;
+}
+li{
+    list-style-type: none;padding:0px;margin: 0;font-size:17px;
+}
+.text3{
+   font-size:25px;
+   color: yellow;
+   font-weight: bold;
+  }
+.text4{
+     font-size: 14px;
+     line-height: 1;
+}
+.text5{
+    font-size:14px;
+    line-height: 1.6;
+    padding-top: 20px; 
+}
+
+.triangle{
+    display: flex;
+    color: white;
+}
+.listtype{
+    padding:0px 0 20px 0;
+    line-height: 1.8;
+}
+.triangle img{
+    height:25px;
+    padding-right:10px;
+    padding-top: 10px;
+}
+.circles{
+    width:60px;
+    height:45px;
+    border:2px solid white;
+     border-radius:30px;
+     margin:10px 0 20px;
+     align-items: center;
+    text-align: center;
+    font-size:10px;
+    padding-top:5px;
+    line-height: 1;
+}
+.date{
+    font-size:18px;
+}
+.smallcircles{
+    width: 100%;
+    display: flex;
+}
+.smtxt{
+    padding:10px 0 0 15px;
+    font-size: 14px;
+}
+.socialicons{
+    width: 100%;
+    display: flex;
+    padding-top: 30px;
+
+
+}
+.slcircles{
+    width:40px;
+    height:35px;
+     border-radius:30px;
+    background-color: yellow;
+    margin: 0 10px 0 10px;
+   
+}
+.slcircles img{
+    width:30px;
+
+}
+.location{
+    color: white;
+    margin-top:20px;
+}
+
+.location img{
+    height:20px;
+    padding-right:10px;
+}
+.address{
+    font-size: 14px;
+}
+.number{
+    padding-left: 32px;
+}
